@@ -7,13 +7,13 @@
 Summary:	Backport of recent additions to the 'collections.abc' module
 Summary(pl.UTF-8):	Backport ostatnich rozszerzeń modułu 'collections.abc'
 Name:		python-backports_abc
-Version:	0.4
+Version:	0.5
 Release:	1
 License:	PSF
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/pypi/backports_abc
-Source0:	https://pypi.python.org/packages/source/b/backports_abc/backports_abc-%{version}.tar.gz
-# Source0-md5:	0b65a216ce9dc9c1a7e20a729dd7c05b
+#Source0Download: https://pypi.python.org/simple/backports_abc
+Source0:	https://files.pythonhosted.org/packages/source/b/backports_abc/backports_abc-%{version}.tar.gz
+# Source0-md5:	7d1936ec183a3586290adf60f6f96764
 URL:		https://github.com/cython/backports_abc
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
