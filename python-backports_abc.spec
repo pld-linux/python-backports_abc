@@ -8,7 +8,7 @@ Summary:	Backport of recent additions to the 'collections.abc' module
 Summary(pl.UTF-8):	Backport ostatnich rozszerzeń modułu 'collections.abc'
 Name:		python-backports_abc
 Version:	0.5
-Release:	2
+Release:	3
 License:	PSF
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/backports_abc
